@@ -1,6 +1,6 @@
 Read me file uses Markdown Syntax to edit any text, formulas or codes.
 
-# woTech-Lasma
+# Welcome to Lasma's repository
 
 ## My skills
 -Java
